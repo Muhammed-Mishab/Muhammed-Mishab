@@ -1,6 +1,6 @@
 # Muhammed Mishab
 
-**~Software Engineer (Embedded Systems / Firmware)~**
+**`Software Engineer (Embedded Systems / Firmware)`**
 
 I am a B.Tech graduate with a passion for embedded systems and IoT development. I enjoy designing and building hardware-software integrated projects, optimizing microcontroller applications, and exploring real-time systems. Here, you’ll find my work on embedded C programming, microcontroller projects, sensors & actuators, and automation systems.
 
