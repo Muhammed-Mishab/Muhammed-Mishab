@@ -59,8 +59,8 @@ I’m **Mishab**, an Embedded Systems Engineer specializing in low-level program
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
-| **[Project 2](https://github.com/)**    | Short Description |
+| **[Project 1](https://github.com)**    | Short Description |
+| **[LSB-Steganography](https://github.com/Muhammed-Mishab/LSB-Steganography)**    | Developed an image-based steganography system using the Least Significant Bit (LSB) technique to hide encrypted text data within RGB images. |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
 ---
