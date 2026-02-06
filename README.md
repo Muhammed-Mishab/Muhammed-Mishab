@@ -61,5 +61,6 @@ I’m **Mishab**, an Embedded Systems Engineer specializing in low-level program
 | **[Address Book](https://github.com/Muhammed-Mishab/AddressBook)**    | Address Book application written in C that allows users to store, view, edit, and delete contacts efficiently. |
 | **[LSB-Steganography](https://github.com/Muhammed-Mishab/LSB-Steganograph)**    | Developed an image-based steganography system using the Least Significant Bit (LSB) technique to hide encrypted text data within RGB images. |
 | **[MP3-TagReader](https://github.com/Muhammed-Mishab/MP3-TagReader)**    | MP3 Tag Reader that extracts and displays metadata information stored in MP3 audio files using ID3 tags | 
+| **[Inverted-Search](https://github.com/Muhammed-Mishab/Inverted-Search)**    |  implement an Inverted Search system that enables efficient searching of words across multiple text files. |
 
 ---
