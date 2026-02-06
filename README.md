@@ -62,5 +62,6 @@ I’m **Mishab**, an Embedded Systems Engineer specializing in low-level program
 | **[LSB-Steganography](https://github.com/Muhammed-Mishab/LSB-Steganograph)**    | Developed an image-based steganography system using the Least Significant Bit (LSB) technique to hide encrypted text data within RGB images. |
 | **[MP3-TagReader](https://github.com/Muhammed-Mishab/MP3-TagReader)**    | MP3 Tag Reader that extracts and displays metadata information stored in MP3 audio files using ID3 tags | 
 | **[Inverted-Search](https://github.com/Muhammed-Mishab/Inverted-Search)**    |  implement an Inverted Search system that enables efficient searching of words across multiple text files. |
+| **[APC-ModularCalculator](https://github.com/Muhammed-Mishab/APC--ModularCalculator)**    |  This project implements a modular calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. |
 
 ---
