@@ -52,7 +52,6 @@ I’m **Mishab**, an Embedded Systems Engineer specializing in low-level program
 
 
 </div>
---- 
 
 <h2 id="Projects" align=''> Projects </h2>
 
