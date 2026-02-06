@@ -3,7 +3,7 @@
 
 I’m **Mishab**, an Embedded Systems Engineer specializing in low-level programming, microcontrollers, and hardware-software interfacing. I enjoy working close to the hardware, optimizing memory and performance, and developing reliable firmware in C/C++. My goal is to engineer robust embedded systems that power real-world devices.
 
-<a href="www.linkedin.com/in/muhammed-mishabb"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/muhammed-mishab"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
